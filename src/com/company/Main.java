@@ -5,6 +5,10 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.io.IOException;
 
+/**
+ * Зачтено 03.06.2021
+ */
+
 public class Main {
 
     public static void main(String[] args) throws IOException {
