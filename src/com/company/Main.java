@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.io.IOException;
 
 /**
- * Зачтено
+ * Зачтено 03.06.2021
  */
 
 public class Main {
